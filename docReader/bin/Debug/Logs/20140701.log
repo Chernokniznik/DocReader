@@ -1,0 +1,5 @@
+[01.07.2014 21:47:00] 	System.Net.Mail.SmtpException: The client or server is only configured for E-mail addresses with ASCII local-parts:  info@fcgmetal.lv.
+   at System.Net.Mail.MailAddress.GetAddress(Boolean allowUnicode)
+   at System.Net.Mail.SmtpClient.ValidateUnicodeRequirement(MailMessage message, MailAddressCollection recipients, Boolean allowUnicode)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at docReader.SourceReader.SendSimpleMail(String email, String emailPassword, String pathToSend, Int32& countOfFiles, FileInfo d, StreamReader reader, String curMonth, String t) in c:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\SourceReader.cs:line 333

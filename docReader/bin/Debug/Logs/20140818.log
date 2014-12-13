@@ -1,0 +1,8 @@
+[18.08.2014 21:50:28] 	System.IO.FileNotFoundException: Could not find file 'C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\bin\Debug\IVAN_BAZE_NEW_1.05.14.xls'.
+File name: 'C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\bin\Debug\IVAN_BAZE_NEW_1.05.14.xls'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access)
+   at docReader.SourceReader.TagsLibrary(String path, String selectedMonth) in c:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\SourceReader.cs:line 32

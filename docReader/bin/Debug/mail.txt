@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<span style="font-family:Arial;font-size:12px">
+<b>Labdien cienījamais klient!</b>
+<br/>Pielikumā nosūtām Jums rēķinu par saņemtajiem pakalpojumiem.
+<br/>Ceram uz tālāku un veiksmīgu sadarbību.
+</span>
+	<span style="font-family:Arial;font-size:10px">
+             <br/><br/><b>Ar cieņu,
+			 <br/>SIA "Vidness"
+			 </b><br/><b>e-pasts: <a href="">vidnessapsardze@gmail.com</a>
+			 <br/>tālr. 25997848</b>
+			 <br/>PVN reģ.Nr.LV40003630515
+			 <br/>Jur.adrese: Rīga, Volguntes iela 21-59, LV-1046
+			 <br/>Banka: A/S "Swedbank"
+			 <br/>Konts: LV68HABA0551030269195
+			 <br/>Konts: LV42HABA0551004610738
+			 </span> 
+		 
+</html>

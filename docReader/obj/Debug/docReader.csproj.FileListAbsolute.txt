@@ -1,0 +1,57 @@
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\bin\Debug\docReader.exe.config
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\docReader.exe
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\docReader.pdb
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\bin\Debug\docReader.exe
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\bin\Debug\docReader.pdb
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\bin\Debug\Excel.dll
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\docReader.csprojResolveAssemblyReference.cache
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\MainWindow.baml
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\MainWindow.g.cs
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\App.g.cs
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\docReader_Content.g.cs
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\docReader_MarkupCompile.cache
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\docReader.g.resources
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\docReader.Properties.Resources.resources
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\docReader.csproj.GenerateResource.Cache
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\MainWindow.baml
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\ProgressDialog\ProgressDialog.baml
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\MainWindow.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\ProgressDialog\ProgressDialog.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\App.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\docReader_Content.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\docReader_MarkupCompile.cache
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\docReader.g.resources
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\docReader.Properties.Resources.resources
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\docReader.csproj.GenerateResource.Cache
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\bin\Debug\docReader.exe.config
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\bin\Debug\docReader.exe
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\bin\Debug\docReader.pdb
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\bin\Debug\Excel.dll
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\docReader.exe
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\docReader.pdb
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader\docReader\obj\Debug\docReader.csprojResolveAssemblyReference.cache
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\ProgressDialog\ProgressDialog.baml
+C:\Users\ivbe.ONE\Desktop\docReader\docReader\obj\Debug\ProgressDialog\ProgressDialog.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\bin\Debug\docReader.exe.config
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\docReader.exe
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\docReader.pdb
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\bin\Debug\docReader.exe
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\bin\Debug\docReader.pdb
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\bin\Debug\Excel.dll
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\docReader.csprojResolveAssemblyReference.cache
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\MainWindow.baml
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\ProgressDialog\ProgressDialog.baml
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\MainWindow.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\ProgressDialog\ProgressDialog.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\App.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\docReader_Content.g.cs
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\docReader_MarkupCompile.cache
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\docReader.g.resources
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\docReader.Properties.Resources.resources
+C:\Users\wax\Documents\Visual Studio 2013\Projects\docReader2\docReader\obj\Debug\docReader.csproj.GenerateResource.Cache
+C:\Users\wax\Source\Repos\DocReader2\docReader\bin\Debug\docReader.exe.config
+C:\Users\wax\Source\Repos\DocReader2\docReader\obj\Debug\docReader.exe
+C:\Users\wax\Source\Repos\DocReader2\docReader\obj\Debug\docReader.pdb
